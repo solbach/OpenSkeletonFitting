@@ -1,4 +1,4 @@
-# OpenSkeletonFitting
+# Open Skeleton Fitting
 
 Skeleton fitting algorithm using energy minimization on geodesic distance features.
 
